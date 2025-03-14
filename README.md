@@ -2,8 +2,6 @@
 
 <img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/ddkv6wu-844e897b-c232-460a-8019-e6c554511d16.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGRrdjZ3dS04NDRlODk3Yi1jMjMyLTQ2MGEtODAxOS1lNmM1NTQ1MTFkMTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zKZ-T7ksSQwU2nL_pOPx4J7Bbe_Vdn-TYyHdZESA_VQ" />
 
-## All Rights Reserved.
-This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
 
 https://github.com/user-attachments/assets/24fb3ed8-9a38-49f7-a878-949c75467716
 
@@ -22,3 +20,7 @@ Explore a cutting-edge redesign with vibrant visuals and seamless UX/UI, bringin
 ## Ready to Play? 
 
 Clone the repo, explore the code, and experience the ultimate Tekken journey. Contributions are welcome—let’s make this site legendary together! 
+
+## All Rights Reserved.
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
